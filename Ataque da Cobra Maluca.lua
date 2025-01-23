@@ -1,5 +1,3 @@
---Created using senpaizuri's Puzzle Maker (updated by Naim & Larry126)
---Partially rewritten by edo9300
 --Puzzle made by KasinaoCore
 
 --[[message

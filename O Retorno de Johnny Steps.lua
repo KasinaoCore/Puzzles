@@ -1,7 +1,7 @@
 --AEEE KASINAOOO
 
 --[[message
-Se vingue do Yami Yugi.
+Tenha uma revanche contra o seu oponente.
 
     Seu LP: 2700
     LP do oponente: 3300

@@ -1,11 +1,11 @@
 --Puzzle made by KasinaoCore
 
 --[[message
-Descubra uma das piores armadilhas de todas!
+Derrote o mecânico.
 
-    Seu LP: 2000
-    LP do oponente: 1300
-    Complexidade: 1/10.
+    Seu LP: 25
+    LP do oponente: 16500
+    Complexidade: 7/10.
     Objetivo: Ganhe neste turno!
 ]]
 
@@ -36,13 +36,6 @@ Debug.AddCard(67441435,0,0,LOCATION_HAND,0,POS_FACEDOWN)
 Debug.AddCard(93554166,0,0,LOCATION_HAND,0,POS_FACEDOWN)
 Debug.AddCard(14943837,0,0,LOCATION_HAND,0,POS_FACEDOWN)
 Debug.AddCard(53855409,0,0,LOCATION_HAND,0,POS_FACEDOWN)
-
---GY (yours)
---Debug.AddCard(20932152,0,0,LOCATION_GRAVE,2,POS_FACEUP)
-
---Spell & Trap Zones (yours)
---Debug.AddCard(59919307,0,0,LOCATION_SZONE,2,POS_FACEDOWN)
-Debug.AddCard(96363154,0,0,LOCATION_SZONE,1,POS_FACEDOWN)
 
 --Monster Zones (opponent's)
 Debug.AddCard(97836203,1,1,LOCATION_MZONE,2,POS_FACEUP_ATTACK,true)

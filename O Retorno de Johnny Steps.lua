@@ -1,7 +1,7 @@
 --AEEE KASINAOOO
 
 --[[message
-Se vingue do maior trapaceiro da história..
+Se vingue do Yami Yugi.
 
     Seu LP: 2700
     LP do oponente: 3300

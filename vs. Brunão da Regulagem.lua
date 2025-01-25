@@ -1,6 +1,13 @@
---Created using senpaizuri's Puzzle Maker (updated by Naim & Larry126)
---Partially rewritten by edo9300
+--Puzzle made by KasinaoCore
 
+--[[message
+Descubra uma das piores armadilhas de todas!
+
+    Seu LP: 2000
+    LP do oponente: 1300
+    Complexidade: 1/10.
+    Objetivo: Ganhe neste turno!
+]]
 
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,25,0,0)

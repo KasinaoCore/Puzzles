@@ -9,6 +9,7 @@ Derrote o mecânico.
     Objetivo: Ganhe neste turno!
 ]]
 
+Debug.ShowHint("Concentre-se!")
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,25,0,0)
 Debug.SetPlayerInfo(1,16500,0,0)

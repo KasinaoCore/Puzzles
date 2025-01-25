@@ -9,7 +9,7 @@ Descubra uma das piores armadilhas de todas!
     Objetivo: Ganhe neste turno!
 ]]
     
-Debug.ShowHint("Ganhe neste turno, mas tenha em mente: \n\nO card \"Sibilar de Serpente\" (Snake Whistle) uma dessas armadilhas é meio estranha...")
+Debug.ShowHint("Ganhe neste turno, mas tenha em mente: \n\nUma dessas armadilhas é meio estranha...")
 Debug.SetAIName("O Chazz")
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,2000,0,0)

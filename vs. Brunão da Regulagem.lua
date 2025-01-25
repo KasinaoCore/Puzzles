@@ -9,7 +9,6 @@ Derrote o mecânico.
     Objetivo: Ganhe neste turno!
 ]]
 
-Debug.ShowHint("Concentre-se!")
 Debug.ReloadFieldBegin(DUEL_ATTACK_FIRST_TURN+DUEL_SIMPLE_AI,5)
 Debug.SetPlayerInfo(0,25,0,0)
 Debug.SetPlayerInfo(1,16500,0,0)
@@ -47,6 +46,8 @@ Debug.AddCard(97836203,1,1,LOCATION_MZONE,2,POS_FACEUP_ATTACK,true)
 --Spell & Trap Zones (opponent's)
 Debug.AddCard(47475363,1,1,LOCATION_SZONE,2,POS_FACEDOWN)
 Debug.AddCard(20735371,1,1,LOCATION_SZONE,3,POS_FACEDOWN)
+
+Debug.ShowHint("Concentre-se!")
 
 Debug.ReloadFieldEnd()
 aux.BeginPuzzle()
